@@ -1,4 +1,3 @@
-- 🌱 
 - 👋 Hi, I’m @lakkakula-saidev,a Fullstack Web Developer.
 - 👀 I’m interested in Web development and Mechanical Engineering. 
 - 👀 HTML, CSS, JavaScript and ReactJS are fun to play with. 
