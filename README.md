@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lakkakula-saidev, former masters student from Universtiy of Rostock Germany.
+- 🌱 
+- 👋 Hi, I’m @lakkakula-saidev,a Fullstack Web Developer.
 - 👀 I’m interested in Web development and Mechanical Engineering. 
-- 🌱 I’m currently learning Full Stack Web engineering at STRIVE School, Berlin.
 - 👀 HTML, CSS, JavaScript and ReactJS are fun to play with. 
 - 💞️ I’m looking to collaborate on project focusing on web designing 
 - 📫 You can me reach me at lakkakula.saidev@gmail.com anytime in the weekdays
