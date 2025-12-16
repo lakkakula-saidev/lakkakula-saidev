@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on<br>React / React Native apps, fullstack features with NestJS, and AI-assisted development.<br><br>🌱 Learning<br>Agentic AI, RAG systems, and cloud-native architecture (AWS & Azure).<br><br>👯 Open to collaborate on<br>Frontend-heavy or fullstack projects with React, TypeScript, or applied AI.<br><br>💬 Ask me about<br>React performance, React Native at scale, NestJS, Docker, CI/CD.<br><br>⚡ Fun fact<br>Background in computational science — I like clean code and measurable improvements.
+🔭 Working on<br>React / React Native apps, fullstack features with NestJS, ExpressJS, and AI-assisted development.<br><br>🌱 Learning<br>Agentic AI, RAG systems, and cloud-native architecture (AWS & Azure).<br><br>👯 Open to collaborate on<br>Frontend-heavy or fullstack projects with React, TypeScript, or applied AI.<br><br>💬 Ask me about<br>React performance, React Native at scale, NestJS, Docker, CI/CD.<br><br>⚡ Fun fact<br>Background in computational science — I like clean code and measurable improvements.
 
 
 ## 🌐 Socials:
